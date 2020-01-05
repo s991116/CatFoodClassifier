@@ -1,2 +1,13 @@
 Images/Scripts/Secrets.json
 Images/**/*.jpg
+Images/**/*.xml
+Images/.DS_Store
+Images/Scripts/.DS_Store
+Images/.DS_Store
+
+Annotations/label_map.pbtxt
+Annotations/test_labels.csv
+Annotations/test.record
+Annotations/train_labels.csv
+
+**/*.pyc
